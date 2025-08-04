@@ -27,7 +27,7 @@ Custom dataset (~1000 images) with two classes:
 
 1 → No seatbelt (unsafe)
 
-Dataset is not included in this repository due to size.
+
 
 Preprocessing steps are documented in the notebook.
 
